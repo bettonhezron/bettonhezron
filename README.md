@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @bettonhezron
+# 👋 Hi, I'm Hezron Bett
 
 ## About Me
 - 👀 I'm passionate about backend development and creating efficient, scalable applications.
