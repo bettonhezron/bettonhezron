@@ -10,7 +10,7 @@
 
 ## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettonhezron&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettonhezron&count_private=true&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettonhezron&layout=compact&theme=tokyonight)
 
