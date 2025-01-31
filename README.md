@@ -1,39 +1,57 @@
 # 👋 Hi, I'm Hezron Bett
 
 ## About Me
-- 👀 I'm passionate about backend development and creating efficient, scalable applications.
-- 🌱 Currently diving deep into Java and mastering Spring Boot for robust backend solutions.
-- 💞️ Looking to collaborate on open-source projects and innovative backend development tasks.
-- 📫 Reach me: [hezronbet@gmail.com](mailto:hezronbet@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love farming and enjoy gardening in my free time!
+- 🚀 Backend Developer specializing in Java and Spring Boot
+- 💡 Passionate about building scalable, efficient applications and microservices
+- 🌱 Currently mastering advanced Spring Boot techniques and microservices architecture
+- 🤝 Open to collaborating on innovative backend projects and open-source contributions
+- 🌿 When not coding, you'll find me tending to my garden - where I grow both plants and ideas!
 
-## 🚀 GitHub Stats
+## 🛠️ Technical Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettonhezron&count_private=true&show_icons=true)
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettonhezron&layout=compact&theme=tokyonight)
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Development & Deployment
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettonhezron&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettonhezron&layout=compact&theme=tokyonight&hide=html,css&langs_count=6)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bettonhezron&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🛠️ Technologies & Tools
+## 🎯 Current Focus
+- Implementing microservices architecture patterns
+- Mastering Spring Cloud for distributed systems
+- Exploring event-driven architecture
+- Enhancing API security and performance optimization
+- Building robust CI/CD pipelines
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 📫 Let's Connect!
+- Email: [hezronbet@gmail.com](mailto:hezronbet@gmail.com)
+- LinkedIn: [Hezron Bett](https://www.linkedin.com/in/hezron-bett) <!-- Replace with your actual LinkedIn URL -->
+- GitHub: [@bettonhezron](https://github.com/bettonhezron)
 
-## 📬 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hezronbet@gmail.com)
+💡 *"Clean code always looks like it was written by someone who cares."*
 
-## 🌱 Current Focus
-- Deep diving into Spring Boot advanced techniques
-- Exploring microservices architecture
-- Improving backend development skills
-
-<!---
-bettonhezron/bettonhezron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- 
+To make the stats more accurate:
+1. Add your GitHub token to the stats URL (privately)
+2. Include &include_all_commits=true in the stats URL
+3. Update the hiding of specific languages in top-langs if needed
+4. Consider adding custom repository pins for your best projects
+-->
