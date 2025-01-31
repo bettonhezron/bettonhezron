@@ -41,7 +41,7 @@
 
 ## 📫 Let's Connect!
 - Email: [hezronbet@gmail.com](mailto:hezronbet@gmail.com)
-- LinkedIn: [Hezron Bett](https://www.linkedin.com/in/hezron-bett) <!-- Replace with your actual LinkedIn URL -->
+- LinkedIn: [Hezron Bett](https://www.linkedin.com/in/hezron-bett-7150b7244) 
 - GitHub: [@bettonhezron](https://github.com/bettonhezron)
 
 ---
