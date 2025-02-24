@@ -5,7 +5,7 @@
 - 💡 Passionate about building scalable, efficient applications and microservices
 - 🌱 Currently mastering advanced Spring Boot techniques and microservices architecture
 - 🤝 Open to collaborating on innovative backend projects and open-source contributions
-- 🌿 When not coding, you'll find me tending to my garden - where I grow both plants and ideas!
+
 
 ## 🛠️ Technical Skills
 
