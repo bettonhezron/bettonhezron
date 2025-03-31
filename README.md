@@ -35,7 +35,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettonhezron&layout=compact&theme=tokyonight&hide=html,css&langs_count=6)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bettonhezron&theme=tokyonight)](https://git.io/streak-stats)
+##[![GitHub Streak](https://streak-stats.demolab.com/?user=bettonhezron&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🎯 Current Focus
 - Implementing microservices architecture patterns
