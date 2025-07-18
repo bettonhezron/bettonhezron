@@ -1,10 +1,8 @@
 # Hi, I'm Hezron Bett
 
 ## About Me
--  Backend Developer specializing in Java and Spring Boot
--  Passionate about building scalable, efficient applications and microservices
--  Currently mastering advanced Spring Boot techniques and microservices architecture
-- Open to collaborating on innovative backend projects and open-source contributions
+  I'm Hezron, a backend developer who enjoys figuring things out and building simple, effective solutions. I mostly work with Java and Spring Boot, and I genuinely love what I do. I'm always learning, improving, and pushing myself to get better every day.
+
 
 
 ##  Technical Skills
