@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Hezron Bett
 
 ## About Me
-- 🚀 Backend Developer specializing in Java and Spring Boot
-- 💡 Passionate about building scalable, efficient applications and microservices
-- 🌱 Currently mastering advanced Spring Boot techniques and microservices architecture
-- 🤝 Open to collaborating on innovative backend projects and open-source contributions
+-  Backend Developer specializing in Java and Spring Boot
+-  Passionate about building scalable, efficient applications and microservices
+-  Currently mastering advanced Spring Boot techniques and microservices architecture
+- Open to collaborating on innovative backend projects and open-source contributions
 
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,14 +37,14 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bettonhezron&theme=tokyonight)](https://git.io/streak-stats) -->
 
-## 🎯 Current Focus
+##  Current Focus
 - Implementing microservices architecture patterns
 - Mastering Spring Cloud for distributed systems
 - Exploring event-driven architecture
 - Enhancing API security and performance optimization
 - Building robust CI/CD pipelines
 
-## 📫 Let's Connect!
+## Let's Connect!
 - Email: [hezronbet@gmail.com](mailto:hezronbet@gmail.com)
 - LinkedIn: [Hezron Bett](https://www.linkedin.com/in/hezron-bett-7150b7244) 
 - GitHub: [Bettonhezron](https://github.com/bettonhezron)
