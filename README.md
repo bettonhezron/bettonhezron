@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hezron Bett
+# Hi, I'm Hezron Bett
 
 ## About Me
 -  Backend Developer specializing in Java and Spring Boot
@@ -29,7 +29,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettonhezron&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
@@ -52,7 +52,7 @@
 
 ---
 
-💡 *"Clean code always looks like it was written by someone who cares."*
+ *"Whatever will be… but at least let it compile."*
 
 <!-- 
 To make the stats more accurate:
