@@ -1,7 +1,7 @@
 # Hi, I'm Hezron Bett
 
 ## About Me
-  I'm Hezron, a backend developer who enjoys figuring things out and building simple, effective solutions. I mostly work with Java and Spring Boot, and I genuinely love what I do. I'm always learning, improving, and pushing myself to get better every day.
+  A backend developer who enjoys figuring things out and building simple, effective solutions. I mostly work with Java and Spring Boot, and I genuinely love what I do. I'm always learning, improving, and pushing myself to get better every day.
 
 
 
